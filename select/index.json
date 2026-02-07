@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "It Runs Through Me（feat. デ・ラ・ソウル）",
+  "base_artist": "トム・ミッシュ",
+  "createdAt": "2026-02-07T12:36:33.274501Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "It Runs Through Me feat De La Soul",
+      "artist": "Tom Misch",
+      "has_synced": true,
+      "path": "select/01_It_Runs_Through_Me_feat_De_La_Soul_Tom_Misch.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "It Runs Through Me (feat. De La Soul)",
+      "artist": "De La Soul",
+      "has_synced": true,
+      "path": "select/02_It_Runs_Through_Me_(feat._De_La_Soul)_De_La_Soul.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "It Runs Through Me (feat. Tom Misch)",
+      "artist": "De La Soul",
+      "has_synced": true,
+      "path": "select/03_It_Runs_Through_Me_(feat._Tom_Misch)_De_La_Soul.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tom Misch - 'It Runs Through Me' (Feat. De La Soul)",
+      "artist": "POP2PANG",
+      "has_synced": true,
+      "path": "select/04_Tom_Misch_-_'It_Runs_Through_Me'_(Feat._De_La_Soul)_POP2PANG.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "It Runs Through Me (feat. De La Soul)",
+      "artist": "Tom Misch/De La Soul",
+      "has_synced": true,
+      "path": "select/05_It_Runs_Through_Me_(feat._De_La_Soul)_Tom_Misch_De_La_Soul.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "It Runs Through Me (feat. De La Soul)",
+      "artist": "Tom Misch",
+      "has_synced": false,
+      "path": "select/06_It_Runs_Through_Me_(feat._De_La_Soul)_Tom_Misch.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tom Misch - It Runs Through Me (feat. De La Soul) [Official Video]",
+      "artist": "Tom Misch",
+      "has_synced": true,
+      "path": "select/07_Tom_Misch_-_It_Runs_Through_Me_(feat._De_La_Soul)_[Official_Video]_Tom_Misch.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "It Runs Through Me (feat. De La Soul)",
+      "artist": "Tom Misch",
+      "has_synced": false,
+      "path": "select/pl_01_It_Runs_Through_Me_(feat._De_La_Soul)_Tom_Misch.txt"
+    }
+  ]
+}
